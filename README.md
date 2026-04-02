@@ -29,7 +29,7 @@ Here’s what `speck` looks like in action:
 
 Clone the repo:
 ```bash
-git clone https://github.com/sarthakbrnw/speck.git
+git clone https://github.com/justseggy/speck.git
 cd speck
 ```
 
@@ -74,7 +74,6 @@ sudo rm /usr/local/bin/speck
 - Made as a **learning project in C**.
 - No external dependencies (just standard C + POSIX).
 
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/sarthakbrnw)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge\&logo=medium\&logoColor=white)](https://medium.com/@sarthakbrnw)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/seggysocks)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discordapp.com/users/1389657764481077401)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:sarthakbrnw@proton.me)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:seggycodes@proton.me)
